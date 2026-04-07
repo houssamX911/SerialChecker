@@ -119,4 +119,4 @@ git commit -m "Describe your change"
 git push origin main
 ```
 
-If you forked instead, open a **Pull Request** to [houssamX/SerialChecker](https://github.com/houssamX911/SerialChecker).
+If you forked instead, open a **Pull Request** to [houssamX911/SerialChecker](https://github.com/houssamX911/SerialChecker).
