@@ -1,6 +1,6 @@
 # Serial Checker
 
-**Repository:** [github.com/houssamX/SerialChecker](https://github.com/houssamX911/SerialChecker)
+**Repository:** [github.com/houssamX911/SerialChecker](https://github.com/houssamX911/SerialChecker)
 
 A Windows desktop tool that collects system, BIOS, board, CPU, disk, GPU, TPM, network, and monitor data in one run, shows it in a dark **Tkinter** UI, and can **export** a full snapshot or **compare** the last export to the live machine.
 
